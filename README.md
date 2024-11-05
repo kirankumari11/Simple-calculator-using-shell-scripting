@@ -2,7 +2,7 @@
 
 It's calculator using shell scripting which is performing arithmetic operations (+, -, *, /).
 
-Firstly we have to create a script with the name ‘myscript.sh’ in the ‘scripts’ folder and used the chmod command (chmod +x myscript.sh) to give the script execute permissions.
+Firstly we have to create a script with the name ‘myscript.sh’ (you can use any name) in the ‘scripts’ folder (not necessary) and used the chmod command (chmod +x myscript.sh) to give the script execute permissions.
 ![image](https://github.com/user-attachments/assets/a155be0b-1832-4aa2-b692-bc3c4a52b89c)
 
 Then execute the script using ./myscript.sh. Make sure that you are inside the scripts folder.
